@@ -132,7 +132,7 @@ Cleaned and structured dataset ready for analysis or machine learning.
 3. Update file path if needed:
 
 ```python
-'/content/drive/MyDrive/google_colab/dirty_dataset.csv'
+'dirty_dataset.csv'
 ```
 
 4. Run all cells
