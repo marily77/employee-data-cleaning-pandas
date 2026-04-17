@@ -132,14 +132,14 @@ Cleaned and structured dataset ready for analysis or machine learning.
 3. Update file path if needed:
 
 ```python
-'dirty_dataset.csv'
+Dataset is included in this repository.
 ```
 
 4. Run all cells
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Add data validation pipeline
 * Convert notebook into reusable Python script
