@@ -149,8 +149,7 @@ Cleaned and structured dataset ready for analysis or machine learning.
 ---
 
 ## 👤 Author
-
-Marily Valkijainen 
+marily77
 
 ---
 
